@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	humanYears := 5
+	humanYears := 7
 	dogYears := dog.Years(humanYears)
 
 	fmt.Println(dogYears)
