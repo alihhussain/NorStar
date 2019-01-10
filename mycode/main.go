@@ -11,5 +11,4 @@ func main() {
 	dogYears := dog.Years(humanYears)
 
 	fmt.Println(dogYears)
-
 }
